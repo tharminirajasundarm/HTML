@@ -1,9 +1,12 @@
 form{
   background-color: lightblue;
-text-align:justify;
+text-align:center;
 
 width:600px;
 padding-left;
 
 
 }
+p{text-align: left;
+
+ }
